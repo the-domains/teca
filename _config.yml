@@ -1,0 +1,28 @@
+name: Teca
+favicon: null
+layout_spectrum: 0.7622394121717662
+typography_spectrum: 0.4940312944818288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4135749430861324
+  lightness: 0.37944630184210837
+  saturation: 0.628064532764256
+  rhythmicContrast: 0.4955654847435653
+purpose: []
